@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Revision</title>
+</head>
+<body>
+<h1 id="new"></h1>
+<p id="sim"></p>
+<script>
+    document.getElementById("new").innerHTML="Revision";
+document.getElementById("sim").innerHTML="Creating Elements with Javascript"
+</script>
+</body>
+</html>
